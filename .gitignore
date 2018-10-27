@@ -35,11 +35,11 @@ testem.log
 /typings
 
 # e2e
-**/*.js
+/e2e/*.js
 **/*.map
 
-package.json
-package-lock.json
+**/package.json
+**/package-lock.json
 
 # System Files
 .DS_Store
